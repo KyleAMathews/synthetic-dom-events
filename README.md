@@ -1,6 +1,8 @@
 # synthetic-dom-events
 
-[![Build Status](https://travis-ci.org/defunctzombie/synthetic-dom-events.svg?branch=master)](https://travis-ci.org/defunctzombie/synthetic-dom-events)
+Forked from https://github.com/defunctzombie/synthetic-dom-events
+so [can build in
+Webpack.](https://github.com/defunctzombie/synthetic-dom-events/pull/10)
 
 ## example
 

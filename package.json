@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shtylman/synthetic-dom-events.git"
+    "url": "git://github.com/kyleamathews/synthetic-dom-events.git"
   },
   "scripts": {
     "test": "zuul test/*.js",
